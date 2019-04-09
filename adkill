@@ -1,6 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string-array name="ad">
         <item>t.fm-gj.com</item>
         <item>in.xkaqt.com</item>
         <item>f.yijikm.com</item>
@@ -75,6 +72,3 @@
         <item>c.harbinbaojia.net\cats\tt.js</item>
         <item>js.zyrfanli.com\</item>
         <item>www.tutudy.cn\js\m.js</item>
-    </string-array>
-</resources>
-
